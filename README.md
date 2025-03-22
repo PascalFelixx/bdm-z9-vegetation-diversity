@@ -43,7 +43,6 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 📄 .gitignore          # Specifies excluded files/folders
 
 ```
----
 
 ### 🧪 Technical Information
 
