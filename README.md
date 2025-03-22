@@ -32,8 +32,6 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 
 ```bash
 
-```
-
 📁 analysis/           # R scripts for data cleaning, analysis, modelling, and plotting
 📁 data/               # Raw and processed biodiversity data (not version-controlled)
 📁 literature/         # Local literature collection (excluded from version control)
@@ -65,21 +63,21 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 
 ### 🎓 About This Project
 
-This project is part of a **Bachelor's thesis** in the degree program *Applied Digital Life Sciences* at the Zurich University of Applied Sciences (ZHAW). It is conducted during the summer semester 2025.
+This project is part of a **Bachelor's thesis** in the degree program *Applied Digital Life Sciences* at the Zurich University of Applied Sciences (ZHAW). It is conducted during the spring semester 2025.
 
 The thesis follows the structure of a scientific journal article and may serve as the basis for a submission to a peer-reviewed international journal.
 
 - **Author**: Pascal Felix  
 - **Institution**: ZHAW Life Sciences and Facility Management, Wädenswil  
-- **Supervisor**: *(To be added)*  
+- **Supervisor**: Jürgen Dengler & Stefan Widmer 
 
 ---
 
 ### 👤 Author
 
 **Pascal Felix**  
-Bachelor's Thesis | Applied Digital Life Sciences, ZHAW  
-Summer Semester 2025
+Bachelor's Thesis | Applied Digital Life Sciences | Specialisation Digital Environment
+ZHAW  |  Life Sciences and Facility Mangement
 
 ---
 
@@ -92,46 +90,5 @@ Please do not use or redistribute any part of the data, scripts, or visualizatio
 
 ### 💬 Contact
 
-If you have any questions or feedback regarding this project, feel free to get in touch via GitHub or email.
-
-```
-
-### 📌 Expected Outcomes
-
-- Scientific insights into 21st-century changes in plant diversity across Switzerland
-- First-author opportunity for a peer-reviewed journal article (upon submission of a high-quality thesis)
-- Application of state-of-the-art ecological and geospatial statistical methods
-- Comprehensive understanding of long-term vegetation trends based on a globally unique dataset
-
----
-
-### 🎓 About This Project
-
-This project is part of a **Bachelor's thesis** in the degree program *Applied Digital Life Sciences* at the Zurich University of Applied Sciences (ZHAW). It is conducted during the summer semester 2025.
-
-The thesis follows the structure of a scientific journal article and may serve as the basis for a submission to a peer-reviewed international journal.
-
-- **Author**: Pascal Felix
-- **Institution**: ZHAW Life Sciences and Facility Management, Wädenswil
-- **Supervisor**: *(To be added)*
-
----
-
-### 👤 Author
-
-**Pascal Felix**
-Bachelor's Thesis | Applied Digital Life Sciences, ZHAW
-Summer Semester 2025
-
----
-
-### 🔖 License
-
-This project is currently private and intended for academic purposes only.
-Please do not use or redistribute any part of the data, scripts, or visualizations without explicit permission.
-
----
-
-### 💬 Contact
-
 If you have any questions or feedback regarding this project, feel free to get in touch via GitHub or email (felixpas@students.zhaw.ch).
+
