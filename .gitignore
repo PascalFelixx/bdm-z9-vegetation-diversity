@@ -1,0 +1,16 @@
+# Ignore data (should not be version-controlled)
+data/raw/
+data/processed/
+
+# Ignore literature
+literature/
+
+# Ignore outputs (optional)
+outputs/
+
+# R / RStudio specific
+*.Rhistory
+*.RData
+.Rproj.user/
+
+
