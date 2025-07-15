@@ -1,5 +1,5 @@
 
-# 🌿 Changes in Plant Diversity and Composition Over the Past 24 Years
+# 🌿 Changes in Plant Diversity and Composition Over the Past 22 Years
 
 ## Assessed Using Z9 Data from the Swiss Biodiversity Monitoring (BDM)
 
@@ -9,7 +9,7 @@
 
 Since 2001, the [Swiss Biodiversity Monitoring (BDM)](https://www.biodiversitymonitoring.ch) program has been collecting standardized, high-quality biodiversity data from representative areas across Switzerland. This long-term monitoring occurs in five-year intervals and enables the assessment of trends in species diversity and community composition.
 
-Despite its outstanding data quality and global uniqueness, the BDM dataset remains underutilized in ecological research. This project focuses on the **Z9 indicator** — vascular plants and bryophytes — and aims to conduct the first comprehensive analysis of the full dataset.
+Despite its outstanding data quality and global uniqueness, the BDM dataset remains underutilized in ecological research. This project focuses on the **Z9 indicator** — vascular plants — and aims to conduct the first comprehensive analysis of the full dataset.
 
 ---
 
@@ -19,12 +19,12 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 - 📈 Analysis of temporal trends in:
   - Species richness
   - Mean ecological indicator values
-  - Community-weighted means/fractions of functional traits
+  - Species-level trends in presence frequency (logistic GLMMs)
 - 🗺️ Investigation of spatial variation across elevation belts, biogeographic regions, and habitat types
 - 🌱 Optional add-on: analysis of the role and trends of neophytes
 - 📊 Visualisation of results using advanced, publication-ready figures
 - 📝 Writing the thesis in the format of a scientific journal article
-  → *Aim: Submit for peer-reviewed publication with the student as first author*
+  → *Aim: The thesis is written in journal format and may serve as a basis for a future submission.*
 
 ---
 
@@ -33,7 +33,7 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 ```bash
 
 📁 analysis/           # R scripts for data cleaning, analysis, modelling, and plotting
-📁 data/               # Raw and processed biodiversity data (not version-controlled)
+📁 data/               # Raw and processed biodiversity data (not version-controlled, and not publicly available)
 📁 literature/         # Local literature collection (excluded from version control)
 📁 outputs/            # Generated figures, tables, model outputs
 📁 report/             # Bachelor thesis manuscript (e.g. LaTeX or Word)
@@ -44,9 +44,9 @@ Despite its outstanding data quality and global uniqueness, the BDM dataset rema
 
 ### 🧪 Technical Information
 
-- **R version**: 4.3.2 (2023-10-31 ucrt)  
+- **R version**: R 4.5.0 (2025)  
 - **RStudio**: Recommended IDE  
-- **Key packages**: `tidyverse`, `vegan`, `sf`, `lme4`, `ggplot2`, `dplyr`, etc.
+- **Key packages**: `tidyverse`, `ggeffects`, `glmmTMB`, `DHARMa`, `ggplot2`, `emmeans`, etc.
 
 > *All scripts are documented and reproducible. Package versions and dependencies will be listed in the final report.*
 
@@ -77,7 +77,7 @@ The thesis follows the structure of a scientific journal article and may serve a
 
 **Pascal Felix**  
 Bachelor's Thesis | Applied Digital Life Sciences | Specialisation Digital Environment
-ZHAW  |  Life Sciences and Facility Mangement
+ZHAW  |  Life Sciences and Facility Management
 
 ---
 
