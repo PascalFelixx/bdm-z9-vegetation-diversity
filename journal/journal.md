@@ -8,27 +8,43 @@ It supports reproducibility, transparency, and personal accountability.
 
 ---
 
-## 🗓️ Entry: 2025-02-23
+🗓️ Entry: 2025-02-23
+Kick-off meeting. Defined collaboration and communication. Started literature screening. Waiting for dataset.
 
-### ✅ What I worked on
-- Kick-off meeting with supervisors
-- Defined how we will collaborate and communicate
-- Learned that the dataset will be delivered soon
-- Received and began reading relevant literature (BDM methods, existing research)
+🗓️ Entry: 2025-03-01
+Drafted thesis disposition. Defined scope and questions. Set up folder structure and Git repo.
 
-### 🔍 Challenges / Questions
-- Difficulty understanding academic papers in English — time-consuming
-- Open questions:
-  - How is my work different from previous studies?
-  - How can I define clear and concrete goals for the thesis?
+🗓️ Entry: 2025-03-10
+Received BDM data. First explorations in R. Imported metadata and plant/moss data. Filtered valid records.
 
-### 💡 Insights / Learnings
-- Gained a rough understanding of the BDM dataset structure and collection methods
-- Got an overview of previously detected biodiversity trends
+🗓️ Entry: 2025-03-18
+Built species × plot × year matrices. Created processed CSVs. Cleaned taxon names.
 
-### 📌 Next steps
-- Wait for dataset delivery
-- Work on the project disposition to structure the overall workflow
-- Set up the local project directory with relevant folders and initial files
+🗓️ Entry: 2025-03-26
+Linked plant taxa to Flora Indicativa. Fuzzy matching + manual corrections. Exported trait table.
+
+🗓️ Entry: 2025-04-05
+Calculated unweighted community means for EIVs and CSR traits. Merged with metadata.
+
+🗓️ Entry: 2025-04-15
+Finalized data wrangling. Structured scripts and folders. All CSVs ready for analysis.
+
+🗓️ Entry: 2025-06-20
+Started modelling (late). Built GLMMs for species richness and ecological indicators. Debugged model fits.
+
+🗓️ Entry: 2025-06-24
+Ran logistic GLMMs for species-level trends. Filtered species, extracted slopes, classified winners/losers.
+
+🗓️ Entry: 2025-06-26
+Generated plots and summary tables. Wrote most of Results section. First version of figures exported.
+
+🗓️ Entry: 2025-06-28
+Wrote Discussion and Conclusion. Compared with literature. Highlighted spatial and trait trends.
+
+🗓️ Entry: 2025-07-01
+Formatted thesis. Checked figure captions. Citations reviewed. Added appendix tables.
+
+🗓️ Entry: 2025-07-03
+Submitted thesis. Backup archived. Started working on colloquium slides.
 
 ---
